@@ -1,0 +1,17 @@
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\MainWindow.baml
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\MainWindow.g.cs
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\App.g.cs
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt_MarkupCompile.cache
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.g.resources
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.Properties.Resources.resources
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.GenerateResource.Cache
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+c:\users\nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\GenerateKey.baml
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\GenerateKey.g.cs
+C:\Users\Nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\KeyInfo.baml
+C:\Users\Nguyen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\KeyInfo.g.cs
